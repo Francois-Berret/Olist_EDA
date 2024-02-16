@@ -10,6 +10,6 @@ Entre autres points clés mis en lumière :
 * Si la moyenne des évaluations s’établit autour de 4 sur 5, elle n’est que de 1.98 pour septembre 2018
 * Le délai de livraison moyen est d’environ 300 heures, il atteint 511 heures pour les commandes notées 1 sur 5
 
-Notebook Google Colab : https://colab.research.google.com/drive/1p-ZNsqGgR7ScAdtOxOIL6XUcm6nvGi70?usp=sharing (Github ne permet pas l'affichage des graphiques interactifs contenurs dans le fichier Olist_EDA.ipynb)
+Notebook Google Colab : https://colab.research.google.com/drive/1p-ZNsqGgR7ScAdtOxOIL6XUcm6nvGi70?usp=sharing (Github ne permet pas l'affichage des graphiques interactifs contenus dans le fichier Olist_EDA.ipynb)
 
 Source des données : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv 
